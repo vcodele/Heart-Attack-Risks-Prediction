@@ -1,0 +1,14 @@
+2 Weeks (Dec 31st - Jan 14)
+
+BACKGROUND RESEARCH (deadline: 2 JAN)
+= Understanding the project (Overview)	✔
+= Investigating the problem and stating the objectives	✔
+
+ANALYSIS (deadline: 12 JAN)
+= Summarize the data
+= Cleaning
+= Explore
+= Feature Engineering
+= Accuracy check
+
+YOU JUST EARNED A BREAK
