@@ -1,6 +1,6 @@
 ## Project Status ====== <i>ongoing</i>
 
-#### HEART ATTACK
+## HEART ATTACK
 ## OVERVIEW
 The HEART is a muscular organ primarily involved in the transfer of blood to the body. Blood containing oxygen and nutrients pass through the blood vessels to other parts of the body keeping them alive and healthy while carbon dioxide leaves the organs passing through the vessels to the lungs.
 Heart Attack occur as a result of blockage in the flow of blood to the heart. This blockage can be partial or total thereby limiting the transfer of blood to the organs of the body or other parts of the heart.
